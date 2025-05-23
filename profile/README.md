@@ -8,6 +8,12 @@ Vertical Playground is a group of research engineers and enthusiasts developing 
 
 Our mission is to enable organisations of all sizes to leverage the power of Artificial Intelligence to automate, orchestrate and optimize their workflows. Our ultimate goal is to pioneer research and development towards General Artificial Intelligence.
 
+##🤝 Get Involved
+
+We're open to collaborations, partnerships, and pilot projects. If you're interested in working with us or exploring what agentic workflows can do for your business, reach out.
+
+📫 Contact us: [info@vertical-playground.com]
+
 <!--
 
 **Here are some ideas to get you started:**
