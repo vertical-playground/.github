@@ -1,6 +1,13 @@
 ## Hi there 👋
 
 <img src="wttp.png" alt="Our banner" width="100%" />
+
+Vertical Playground is a group of research engineers and enthusiasts developing agentic workflows for modern business use cases. We build intelligent, adaptive, and autonomous systems that integrate seamlessly with existing tools and processes to meet the evolving demands of modern businesses.
+
+## 🚀 Mission
+
+Our mission is to enable organisations of all sizes to leverage the power of Artificial Intelligence to automate, orchestrate and optimize their workflows. Our ultimate goal is to pioneer research and development towards General Artificial Intelligence.
+
 <!--
 
 **Here are some ideas to get you started:**
