@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="Untitled.002.png" alt="Our banner" width="100%" />
 <!--
 
 **Here are some ideas to get you started:**
